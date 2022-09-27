@@ -1,4 +1,4 @@
-# Portfolio
+# Password Genterator
 
 ![picture of webpage](assets/images/homepage.PNG)
 
